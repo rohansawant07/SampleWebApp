@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-JQ6T3AF" name="junit.TestCalculator" skipped="0" tests="5" time="0.16" timestamp="2020-07-27T08:23:28">
+  <properties>
+    <property name="ant.library.dir" value="C:\Program Files (x86)\apache-ant-1.10.8\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="14" />
+    <property name="ant.project.name" value="SampleBuild" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-launcher.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-antlr.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-bcel.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-bsf.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-log4j.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-oro.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-regexp.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-resolver.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-apache-xalan2.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-commons-logging.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-commons-net.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-imageio.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-jai.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-javamail.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-jdepend.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-jmf.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-jsch.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-junit.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-junit4.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-junitlauncher.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-launcher.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-netrexx.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-swing.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-testutil.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant-xz.jar;C:\Program Files (x86)\apache-ant-1.10.8\lib\ant.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="java.vm.specification.version" value="14" />
+    <property name="os.name" value="Windows 10" />
+    <property name="ant.file.SampleBuild" value="C:\Program Files\Jenkins\GitWorkspace\SampleWebApp\build.xml" />
+    <property name="user.country" value="IN" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher junit" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\nitin" />
+    <property name="user.language" value="en" />
+    <property name="sun.stderr.encoding" value="cp437" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2020-07-14" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.2" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="C:\Program Files\Jenkins\GitWorkspace\SampleWebApp" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="sun.stdout.encoding" value="cp437" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="14" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="14.0.2+12-46" />
+    <property name="user.name" value="nitin" />
+    <property name="ant.file" value="C:\Program Files\Jenkins\GitWorkspace\SampleWebApp\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.file.type.SampleBuild" value="file" />
+    <property name="ant.project.invoked-targets" value="junit" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.core.lib" value="C:\Program Files (x86)\apache-ant-1.10.8\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\nitin\AppData\Local\Temp\" />
+    <property name="java.version" value="14.0.2" />
+    <property name="user.dir" value="C:\Program Files\Jenkins\GitWorkspace\SampleWebApp" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="C:\Program Files (x86)\apache-ant-1.10.8" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.8 compiled on May 10 2020" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-14.0.2\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-ant-1.10.8\bin;C:\Users\nitin\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\nitin\AppData\Local\Programs\Python\Python38-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Users\nitin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;C:\Users\nitin\AppData\Local\Microsoft\WindowsApps;C:\Flutterrrrr\flutter\bin;C:\Users\nitin\AppData\Local\GitHubDesktop\bin;C:\Users\nitin\AppData\Roaming\npm;;." />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.version" value="14.0.2+12-46" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="58.0" />
+    <property name="ant.project.default-target" value="compile" />
+  </properties>
+  <testcase classname="junit.TestCalculator" name="testDivideByZero" time="0.009" />
+  <testcase classname="junit.TestCalculator" name="testAdd" time="0.0" />
+  <testcase classname="junit.TestCalculator" name="testSubtract" time="0.0" />
+  <testcase classname="junit.TestCalculator" name="testDivide" time="0.0" />
+  <testcase classname="junit.TestCalculator" name="testMultiply" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
